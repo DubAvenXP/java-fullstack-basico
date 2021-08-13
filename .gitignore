@@ -32,3 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 *.svg
+/main/resourses/static/vendor/
+/main/resourses/static/css/
+/main/resourses/static/scss
